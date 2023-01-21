@@ -4,6 +4,6 @@
 
 - 🔭 I'm currently an Accenture employee in Malaga as a Backend programmer.
 - 📚 I’m currently learning Spring Framework & Spring Boot 3.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/juan-villegas-mu%C3%B1oz-b34535202/) [Gmail](mailto Juan.villegasm21@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/juan-villegas-mu%C3%B1oz-b34535202/) [Gmail](mailto:Juan.villegasm21@gmail.com)
 
 
